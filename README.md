@@ -2,8 +2,6 @@
 
 ![Route Animation](Results/path_gif.gif)
 
-Implementing **GA** to get a good enough solution of **TSP**.
-
 ---
 
 ## Problem
@@ -55,6 +53,7 @@ A custom crossover is used to ensure:
 
 * no duplicate cities
 * valid tours
+
 in all fairness it's just a hybrid OX-PMX crossover preserving absolute positions and relative order.
 
 ### Mutation
