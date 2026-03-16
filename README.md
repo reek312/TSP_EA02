@@ -1,6 +1,8 @@
 # Solving Travelling Salesman Problem with Genetic Algorithm
 
-![Route Animation](Results/path_gif.gif)
+<div align="center">
+  <img src="Results/path_gif.gif" alt="Route Animation" width="400">
+</div>
 
 ---
 
